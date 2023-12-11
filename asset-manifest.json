@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Car-Rental-Landing-Page/static/css/main.70341454.css",
+    "main.js": "/Car-Rental-Landing-Page/static/js/main.7a42f71e.js",
+    "static/media/footer-bg-layer.png": "/Car-Rental-Landing-Page/static/media/footer-bg-layer.fb4a9c7077844d6a39cd.png",
+    "index.html": "/Car-Rental-Landing-Page/index.html",
+    "main.70341454.css.map": "/Car-Rental-Landing-Page/static/css/main.70341454.css.map",
+    "main.7a42f71e.js.map": "/Car-Rental-Landing-Page/static/js/main.7a42f71e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70341454.css",
+    "static/js/main.7a42f71e.js"
+  ]
+}
