@@ -1,4 +1,5 @@
 {
+  "homepage": "http://arjunthakur0412.github.io/Car-Rental-Landing-Page/",
   "name": "travel-temp",
   "version": "0.1.0",
   "private": true,
@@ -24,6 +25,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -50,6 +53,7 @@
     "@typescript-eslint/eslint-plugin": "^6.7.3",
     "@typescript-eslint/parser": "^6.7.3",
     "eslint-config-prettier": "^9.0.0",
+    "gh-pages": "^6.1.0",
     "husky": "^8.0.3",
     "lint-staged": "^14.0.1",
     "prettier": "^3.0.3"
